@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message" : "Quick Search"
+		,"description" : "Extension name."
+	}
+	
+	,"extDescription": {
+		"message"  : "Search selected text quickly on Google, Wikipedia, Twitter or Amazon by hitting a key on your keyboard."
+		,"description" : "Extension description."
+	}
+}

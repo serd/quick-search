@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message" : "Hızlı Arama"
+		,"description" : "Extension name."
+	}
+	
+	,"extDescription": {
+		"message"  : "Seçili metni bir tuşla Google, Wikipedia, Twitter veya Amazon ara."
+		,"description" : "Extension description."
+	}
+}
