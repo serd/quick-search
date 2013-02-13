@@ -10,5 +10,3 @@ A Chrome extension to search selected text quickly on Google, Wikipedia, Twitter
 - Alt+Ctrl+T to search on Twitter
 
 - Alt+Ctrl+A to search on Amazon
-
-© klivk.com
